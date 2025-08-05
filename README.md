@@ -66,6 +66,9 @@
 </p>
 
 ---
+### 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/prakcodes?ext=contest)
 
 ### 📬 Let's Connect
 
